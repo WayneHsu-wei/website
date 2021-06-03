@@ -15,7 +15,7 @@
 #first h1{
 
 	/* C-6 */
-	color:brown;
+	color:white;
 }
 
 #introfirst img
@@ -55,25 +55,25 @@ border-radius: 5px;
 .bodybg4{
 
 	color:white;
-	background-color: cadetblue;
+	background-color: rgb(46, 45, 45);
 }
 
 .bodybg1{
 
 	color:white;
-	background-color: cadetblue;
+	background-color: rgb(46, 45, 45);
 }
 
 .bodybg2{
 
 	color:white;
-	background-color: cadetblue;
+	background-color: rgb(46, 45, 45);
 }
 
 .bodybg3{
 
 	color:white;
-	background-color: cadetblue;
+	background-color: rgb(46, 45, 45);
 }
 
 #location{
@@ -85,3 +85,4 @@ border-radius: 5px;
 	padding-top: 50px;
 	padding-left: 50px;
 }
+
